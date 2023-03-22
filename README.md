@@ -6,4 +6,4 @@ En este repositorio se creara una aplication web aplicando mobile Firts. Se trat
 
 Estructura de la pagina:
 
-[Estructura de la pagina](https://github.com/edierbra/MobileFirts/blob/master/images/Estructura.jpg?raw=true)
+![Estructura de la pagina](https://github.com/edierbra/MobileFirts/blob/master/images/Estructura.jpg?raw=true)
