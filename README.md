@@ -8,4 +8,4 @@ Ingrese a este [enlace](https://edierbravo.github.io/MobileFirts/) para ver la p
 
 ### Estructura de la pagina:
 
-![Estructura de la pagina](https://github.com/edierbravo/MobileFirts/blob/master/imgs/Estructura.jpg?raw=true)
+![Estructura de la pagina](https://github.com/edierbravo/MobileFirts/blob/main/imgs/Estructura.jpg?raw=true)
